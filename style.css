@@ -97,4 +97,16 @@ section i:nth-child(even){
     }
 }
 
+
+@media screen and (max-width: 650px){
+    section .box{
+        height: 200px;
+        width: 200px;       
+    }
+    section .box .circle h2{
+        font-size: 2.5em;
+    }
+}
+
+
 /*ff2a2a*/
